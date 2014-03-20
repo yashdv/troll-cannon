@@ -1,0 +1,46 @@
+*** TROLL CANNON***
+
+Compile
+-------------------------
+make
+
+
+Run
+-------------------------
+./game
+
+
+How to play
+-------------------------
+
+This is a simple game with the aim of shooting balloons with the cannonball. It
+consists of 2 levels, which can be changed at any point in the game. The first
+level is a simple level in which we have to shoot all the three balloons with
+just one shot to proceed to the next level.
+
+The next level is little tough where you have to shoot the ropes of air balloon
+to throw the anchor on to the targets on the grounds. Again you get just one
+chance.
+
+You can play the game using keyboard and mouse.
+Score decreases with misses.
+
+Keyboard controls:
+
+Increase speed: f
+Decrease speed: s
+Move the bird up: a
+Move the bird to the right: b
+Shoot the bird: space
+Quit the game: escape (Esc)
+zoom in: z
+zoom out: x
+pan left: c
+pan right: v
+Next: n
+
+Mouse controls:
+
+Left click controls speedometer at the top.
+Right click shoots cannon.
+Mouse movements moves the cannon.
